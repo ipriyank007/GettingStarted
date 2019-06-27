@@ -1,10 +1,15 @@
+# from os import getcwd
+# import time
+#
+# # try:
+# currdir = getcwd()
+# # mkdir('New Folder 3')
+# # time.sleep(3)
+# # rename('New Folder 3', 'Scrap Projects')
+# # time.sleep(3)
+# # os.rmdir('Scrap Projects')
+# print(currdir)
+# # except Exception as e:
+#     print(e)
 import os
-import time
-
-currdir = os.getcwd()
-os.mkdir('New Folder')
-time.sleep(3)
-os.rename('New Folder', 'New Folder2')
-time.sleep(3)
-# os.rmdir('New Folder2')
-print(currdir)
+help(os)
