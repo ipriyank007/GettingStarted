@@ -1,5 +1,5 @@
 class Calc:
-    s
+    
     def add(a, b):
         return a + b
 
