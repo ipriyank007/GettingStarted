@@ -12,5 +12,5 @@ def multiply(a, b):
 
 def divide(a, b):
     if b == 0:
-        raise ValueError("You cannot divide shit by zero!")
+        raise ValueError("You cannot divide nums by zero!")
     return a / b
